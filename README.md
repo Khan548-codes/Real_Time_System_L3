@@ -6,4 +6,4 @@
 3. With period 200 ms and ON 150 ms, the duty cycle is 75%. As ON time approaches the period, the OFF time shrinks to near zero; at ON ≥ period, it overruns and the LED looks almost always on with tiny, irregular off gaps.
    
 ![image](https://github.com/Khan548-codes/Real_Time_System_L3/blob/main/Images/pic1.jpeg)
-![image](/images/ss1.png)
+![image](https://github.com/Khan548-codes/Real_Time_System_L3/blob/main/Images/pic2.png)
